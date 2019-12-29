@@ -11,7 +11,8 @@ This repository is to trace setting up working environment in R and python for w
 - command conda and python does not work for ubuntu
 - command conda and python works, but fails to load library in windows power shell: Solution: intialized Conda with, 
 conda init powershell, after setting PATH. However, this does not work and windows says there is a security issue. 
-- Get admin previlage for your account and type in powershell ```Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted```
+- Get admin previlage for your account and type in powershell ```Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy Unrestricted``` 
+- what is the element of the security that the powershell compromises when setting unrestricted for current user? 
 
 
 ##### Microsoft visual code ####
