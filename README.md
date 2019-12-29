@@ -18,3 +18,6 @@ conda init powershell, after setting PATH. However, this does not work and windo
 - Console result should be displayed on the bottom 
 - visual code calls windows powershell, therefore does not run python nor R.
 
+https://github.com/Ikuyadeu/vscode-R
+- first need to launch R in wondows powershell
+
